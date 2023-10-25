@@ -13,5 +13,5 @@ RoxygenNote: 7.2.3
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-URL: https://github.com/larrouture/mypkgr
+URL: https://github.com/larrouture/mypkgr, https://larrouture.github.io/mypkgr/
 BugReports: https://github.com/larrouture/mypkgr/issues
